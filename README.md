@@ -23,7 +23,7 @@ A RESTful API service for a simple task management system built with Spring Boot
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AhmedARmohamed/task-management-api-spring-boot
 cd task-management-api
 ```
 
